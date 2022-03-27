@@ -1,0 +1,20 @@
+package com.test.aktivocoresdksample_android.utils
+
+const val FEED_API_GET_COMMENTS = 1
+const val FEED_API_POST_COMMENT = 2
+const val FEED_API_LIKE_UNLIKE = 3
+const val FEED_API_HIDE = 4
+const val FEED_API_UNFOLLOW_USER = 5
+const val FEED_API_REPORT_USER = 6
+const val FEED_API_DELETE = 7
+
+const val UPLOAD_IMAGE_FILE = 1
+const val UPLOAD_VIDEO_FILE = 2
+const val UPDATE_FEED_IMAGE_FILE = 3
+const val UPDATE_FEED_VIDEO_FILE = 4
+
+const val ENROL_TO_CHALLENGE = 1
+const val GET_CHALLENGE = 2
+const val GOOGLE_FIT_PERMISSIONS_REQUEST_CODE = 40001
+const val ACTIVITY_RECOGNITION_REQUEST_CODE = 40002
+const val REQUEST_PERMISSION_READ_STORAGE = 1002
